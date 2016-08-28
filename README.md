@@ -1,2 +1,0 @@
-# DFlowInventory
-JavaFX
